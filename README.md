@@ -1,2 +1,1 @@
-# frontend-template
-Frontend Template
+# Frontend Template
