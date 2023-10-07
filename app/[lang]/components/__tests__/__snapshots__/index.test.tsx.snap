@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LocaleSwitcher render result match snapshot 1`] = `
+<body>
+  <div>
+    <div
+      class="switcher"
+    >
+      <div
+        class="item"
+      >
+        <a
+          href="/"
+        >
+          中文
+        </a>
+      </div>
+      <div
+        class="item"
+      >
+        <a
+          href="/"
+        >
+          English
+        </a>
+      </div>
+    </div>
+  </div>
+</body>
+`;
